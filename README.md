@@ -5,7 +5,7 @@ It features a compelling headline, subtext, and interactive buttons to engage vi
 The design is implemented using TailwindCSS and is highly customizable and responsive.
 
 <div align="center">
-  <img src="Capture_Interface.png" alt="Capture image interface">
+  <img src="captures/capture-1.png" alt="Capture image interface">
 </div>
 
 #### Features
